@@ -3,11 +3,21 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     }
     
+h1 {
+    font-size: 35px;
+    margin: 0 auto;
+    margin: 10px;
+    color: lightpink;
+    font-weight: normal;
+    
+}
     
 h2 {
     margin: 0 auto;
     font-size: 35px;
     margin: 10px;
+    color: purple;
+    font-weight: bold;
 }
     
     
